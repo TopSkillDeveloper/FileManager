@@ -15,4 +15,4 @@ namespace FileManager.Models
         public int parentCatalog { get; set; }
         // здесь еще поле
     }
-}
+} 

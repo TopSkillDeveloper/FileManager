@@ -13,4 +13,4 @@ namespace FileManager.Helpers
         //public DbSet<Object> Objects { get; set; }
         //public DbSet<Permissions> Permissions { get; set; }
     }
-}
+} 
