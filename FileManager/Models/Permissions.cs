@@ -16,4 +16,4 @@ namespace FileManager.Models
         public bool read { get; set; }
         public bool download { get; set; }
     }
-} 
+}
